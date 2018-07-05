@@ -41,31 +41,22 @@ class CreateCharacter extends Component {
 	render() {
 		return (
 			<div>
-				<h2>Create Your Character!</h2>
-				<div className="makechar">
-					<div style={{ backgroundColor: '#1DA1F2' }}>
-						<h4 style={{ color: '#CCEEFF' }}>Twitter Character</h4>
-						<input
-							className=""
-							value={this.state.twitterName}
-							onChange={this.handleTwitNameChange}
-							onKeyUp={this.handleEnterPressed}
-							type="text"
-							placeholder="Enter that person's twitter handle"
-						/>
-					</div>
-					<div>
-						<h4>Base Character</h4>
-						<input
-							type="text"
-							className=""
-							value={this.state.newName}
-							onChange={this.handleChange}
-							onKeyUp={this.handleEnterPressed}
-							placeholder="Enter New Character's name"
-						/>
-					</div>
-				</div>
+				<h2>new characters all goes in here</h2>
+				<input
+					className=""
+					value={this.state.twitterName}
+					onChange={this.handleTwitNameChange}
+					onKeyUp={this.handleEnterPressed}
+					placeholder="Enter that person's twitter handle"
+				/>
+				<br />
+				<input
+					className=""
+					value={this.state.newName}
+					onChange={this.handleChange}
+					onKeyUp={this.handleEnterPressed}
+					placeholder="Enter New Character's name"
+				/>
 			</div>
 		);
 	}
