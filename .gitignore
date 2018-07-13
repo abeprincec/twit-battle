@@ -6,7 +6,8 @@ server/node_modules
 twit_battle_server/node_modules
 # testing
 /coverage
-
+# images
+/public/images
 # production
 /server/build
 
