@@ -8,22 +8,22 @@ number of followers. and attack is based on number of tweets a user has. When th
 
 attack.
 
-##Battle other twitter users or if you do not have twitter account you can make your own character!
+## Battle other twitter users or if you do not have twitter account you can make your own character!
 
 
 ![Imgur](https://i.imgur.com/epouRdS.png)
 
 
-##Create Character Screen
+## Create Character Screen
 
 ![Imgur](https://i.imgur.com/pvaqzDO.png)
 
-##View All the Characters before creating a battle
+## View All the Characters before creating a battle
 
 ![Imgur](https://imgur.com/Tp7OGrF.png)
 
 
-##Battle Screen. 
+## Battle Screen. 
 
 
 ![Imgur](https://i.imgur.com/odDfMEz.png)
@@ -34,7 +34,9 @@ attack.
 - Express
 - Node 5.10.x or above
 - PostgresSQL
-
+- ReactJS
+- React-bootstrap
+- React-popup
 
 
 
