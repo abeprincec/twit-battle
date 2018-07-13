@@ -1,12 +1,6 @@
 # Twitter Battle
 
-This is our Final Project in lighthouse labs. This project was done with my partner Alvin. We wanted to make a game type app 
-
-where users can battle other users. The battle is done by taking turns attacking each other. The health stat is based on
-
-number of followers. and attack is based on number of tweets a user has. When the battle ends the winner inherits the losers 
-
-attack.
+This is our Final Project in lighthouse labs. This project was done with my partner Alvin. We wanted to make a game type app where users can battle other users. The battle is done by taking turns attacking each other. The health stat is based on number of followers. and attack is based on number of tweets a user has. When the battle ends the winner inherits the losers attack.
 
 ## Battle other twitter users or if you do not have twitter account you can make your own character!
 
